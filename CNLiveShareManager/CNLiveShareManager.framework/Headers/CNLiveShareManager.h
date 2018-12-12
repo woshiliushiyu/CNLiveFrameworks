@@ -73,7 +73,7 @@ typedef NS_ENUM(NSUInteger, CNLiveSharePlatformType) {
                                                   ShareDesc:(NSString *)shareDesc
                                                  ShareImage:(id)shareImage
                                                  ScreenFull:(BOOL)isFull
-                                                      Image:(NSArray<NSString *> *)image
+                                                      Image:(NSArray<UIImage *> *)image
                                                      Titles:(NSArray<NSString *> *)title
                                                PlatformType:(CNLiveSharePlatformType)platformType
                                            TouchActionBlock:(void(^)(NSString * title))resultBlock
