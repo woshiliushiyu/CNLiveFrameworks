@@ -1,0 +1,6 @@
+framework module CNLiveShareManager {
+  umbrella header "CNLiveShareManager-umbrella.h"
+
+  export *
+  module * { export * }
+}
