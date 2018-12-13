@@ -2,7 +2,7 @@ Pod::Spec.new do |s|
 
   s.name         = "CNLivePersonalFramework"
   s.version      = "0.0.4"
-  s.summary      = "LSY-iOS 分享功能的集成"# 项目简介
+  s.summary      = "LSY-iOS 分享功能 bug"# 项目简介
   s.homepage     = "https://github.com/woshiliushiyu/CNLiveFrameworks"
   s.source       = { :git => "https://github.com/woshiliushiyu/CNLiveFrameworks.git", :tag => "#{s.version}" }
   s.license      = "MIT"          # 开源证书
